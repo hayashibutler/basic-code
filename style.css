@@ -86,13 +86,13 @@ body {
 /* .img-grid__img:hover .img-grid__img::before {
 } */
 
-.text__h {
+.showcase {
   padding: 30px;
   text-align: center;
   background-color: #f6f6f6;
 }
 
-.h1 {
+.showcase__title {
   line-height: 1.8;
   font-size: 2rem;
   font-weight: 600;
