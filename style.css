@@ -91,7 +91,6 @@ body {
   text-align: center;
   background-color: #f6f6f6;
 }
-
 .showcase__title {
   line-height: 1.8;
   font-size: 2rem;
@@ -113,3 +112,21 @@ td {
   display: flex;
   color: white;
   padding: 5% 8% 4% 8%;
+}
+.nonelist {
+  list-style-type: none;
+  padding-left: 0rem;
+}
+.lienket {
+  text-decoration: none;
+  color: #f6f6f6;
+}
+.testmargin {
+  border: 2px solid white;
+}
+.col__1 {
+  width: 40%;
+}
+.col__2 {
+  padding-left: 3rem;
+}
