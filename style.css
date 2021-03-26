@@ -130,3 +130,20 @@ td {
 .col__2 {
   padding-left: 3rem;
 }
+/* design about */
+.showcase__about {
+  padding: 30px;
+  text-align: center;
+  background-image: url(/picture/background-about.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.showcase__title__about {
+  line-height: 1.8;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #f6f6f6;
+}
+.showcase__description__about {
+  color: #f6f6f6;
+}
