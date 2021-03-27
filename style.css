@@ -147,3 +147,31 @@ td {
 .showcase__description__about {
   color: #f6f6f6;
 }
+/* about profile */
+.col__profile {
+  display: flex;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+.row__profile {
+  display: flex;
+  padding: 4% 8% 4% 8%;
+  background-color: #429feb;
+}
+/* tai sao cho nay khong style duoc trong file css ma phai style truc tiep */
+.col__icon {
+  font-size: 360px;
+}
+.col__content {
+  /* border: 1px solid black; */
+  margin-left: 1rem;
+  color: #f6f6f6;
+}
+.col__content__header {
+  font-size: 1rem;
+  font-weight: 600;
+}
+.col__content__des {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
