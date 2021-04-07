@@ -206,3 +206,57 @@ td {
   margin-right: 35%;
   display: block;
 }
+/* page contact */
+.row__contact {
+  display: flex;
+  background-color: #f6f6f6;
+}
+.col__contact__info {
+  padding: 4rem;
+  width: 45%;
+}
+.col__contact__form {
+  padding: 3rem;
+}
+.row__1 {
+  width: 42%;
+}
+.row__2 {
+  width: 90%;
+}
+input[type="text"],
+textarea {
+  padding: 12px;
+  border: 0px solid #ccc;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  resize: vertical;
+}
+input[type="button"] {
+  background-color: rgb(2, 219, 190);
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  margin-top: 1rem;
+  margin-left: 0.5rem;
+  border-radius: 4px;
+}
+textarea {
+  height: 5rem;
+}
+/* không làm được cái nền xám dưới tấm hình */
+.map__contact__1 {
+  background-color: rebeccapurple;
+}
+.map__contact {
+  background: red;
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  padding: auto;
+}
